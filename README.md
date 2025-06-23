@@ -273,7 +273,7 @@ Um den Wortschatz auf C1-Niveau effektiv zu lernen und anzuwenden, sind hier bew
 
 Hier ist eine Liste mit 100 deutschen Wörtern auf C1-Niveau, die im Alltagsleben häufiger verwendet werden. Ich habe Verben, Nomen und Adjektive eingemischt, die in alltäglichen Situationen – wie Gesprächen mit Freunden, Einkaufen, Arbeit oder Freizeit – nützlich sind. Jedes Wort kommt mit einem Beispielsatz, um den Kontext zu zeigen. Die Liste ist praktisch orientiert und enthält Wörter, die über grundlegendes B2 hinausgehen, aber dennoch im Alltag relevant sind.
 
----
+
 
 + **Liste: 100 C1-Wörter fürs Alltagsleben**
 
@@ -400,7 +400,7 @@ Hier ist eine Liste mit 100 deutschen Wörtern auf C1-Niveau, die im Alltagslebe
 
 Im Arbeitsfeld (Berufswelt) gibt es viele Wörter auf C1-Niveau, die häufiger verwendet werden, insbesondere in Meetings, E-Mails, Berichten oder Gesprächen mit Kollegen und Vorgesetzten. Ich werde dir eine Liste mit 100 Wörtern (Verben, Nomen, Adjektive) zusammenstellen, die im Arbeitskontext relevant und oft genutzt werden. Jedes Wort kommt wieder mit einem Beispielsatz, um den typischen Gebrauch zu zeigen. Die Auswahl berücksichtigt sowohl formelle als auch praktische Sprache, die in Büros, Projekten oder Verhandlungen üblich ist.
 
----
+
 
 + ** Liste:  C1-Wörter im Arbeitsfeld**
 
@@ -527,7 +527,7 @@ Im Arbeitsfeld (Berufswelt) gibt es viele Wörter auf C1-Niveau, die häufiger v
 
 Hier ist eine Liste mit 100 Wörtern, die in der IT-Branche häufig verwendet werden. Diese Begriffe sind spezifisch für den IT-Kontext und umfassen Verben, Nomen und Adjektive, die in Bereichen wie Softwareentwicklung, Netzwerke, IT-Sicherheit und Cloud-Computing relevant sind. Jedes Wort wird mit einem Beispielsatz geliefert, um den typischen Gebrauch zu verdeutlichen. Die Liste ist auf C1-Niveau abgestimmt, also fortgeschritten, aber praxisnah.
 
----
+
 
 + **Liste:  häufig benutzte Wörter in der IT-Branche**
 
@@ -640,7 +640,7 @@ Hier ist eine Liste mit 100 Wörtern, die in der IT-Branche häufig verwendet we
 19. **veraltet** – „Diese Technologie ist inzwischen veraltet.“ (outdated)
 20. **zuverlässig** – „Der Dienst ist sehr zuverlässig.“ (reliable)
 
----
+
 
 + Hinweise zur Nutzung
 
@@ -648,15 +648,14 @@ Hier ist eine Liste mit 100 Wörtern, die in der IT-Branche häufig verwendet we
 - **Lernen:** Erstelle Sätze mit den Wörtern, die zu deinem IT-Bereich passen (z. B. „Ich habe den Server konfiguriert“ für Admins oder „Der Code wurde optimiert“ für Entwickler).
 - **Spezialisierung:** Wenn du einen bestimmten IT-Bereich meinst (z. B. Cybersecurity, DevOps), kann ich die Liste darauf zuschneiden. Sag mir einfach Bescheid!
 
-+
 
 ---
 
----
+
 
 Hier ist eine Liste mit 100 Wörtern, die speziell in der Programmierung häufig verwendet werden. Sie umfasst Verben, Nomen und Adjektive, die für Softwareentwicklung, Coding und verwandte Tätigkeiten relevant sind. Die Begriffe sind auf C1-Niveau abgestimmt und kommen mit Beispielsätzen, um ihren Gebrauch im Kontext zu zeigen. Die Liste ist besonders nützlich für Programmierer, die mit Sprachen wie Python, Java, C++ oder Webentwicklung (HTML, CSS, JavaScript) arbeiten.
 
----
+
 
 + **Liste: 100 häufig benutzte Wörter in der Programmierung**
 
@@ -784,7 +783,6 @@ Hier ist eine Liste mit 100 Wörtern, die speziell in der Programmierung häufig
 
 Here are example sentences for each of the **100 business verbs** you requested:  
 
----
 
  **1. Communication & Interaction**  
 1. **Address** – The manager will address the employees’ concerns in the next meeting.  
@@ -910,7 +908,7 @@ Here are example sentences for each of the **100 business verbs** you requested:
 
 Here are **100 commonly used verbs** in **software engineering**, categorized by different aspects of the field:  
 
----
+
 
  **1. Coding & Development**  
 1. **Analyze** – Analyze the code for potential bugs.  
